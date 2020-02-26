@@ -1,0 +1,17 @@
+app/code/local/Amasty   app/code/local/Amasty
+app/design/adminhtml/default/default/layout/amasty  app/design/adminhtml/default/default/layout/amasty
+app/design/adminhtml/default/default/template/amasty    app/design/adminhtml/default/default/template/amasty
+app/design/adminhtml/default/default/template/amaudit   app/design/adminhtml/default/default/template/amaudit
+app/design/adminhtml/default/default/template/amgeoip   app/design/adminhtml/default/default/template/amgeoip
+app/etc/modules/*.xml   app/etc/modules/
+app/locale/en_US/template/*.csv app/locale/en_US/template/
+app/locale/en_US/template/email/*.csv   app/locale/en_US/template/email/
+js/amasty   js/amasty
+lib/Amasty  lib/Amasty
+skin/adminhtml/default/default/amasty   skin/adminhtml/default/default/amasty
+skin/adminhtml/default/default/css/amasty   skin/adminhtml/default/default/css/amasty
+skin/adminhtml/default/default/css/images/*.png skin/adminhtml/default/default/css/images/
+skin/adminhtml/default/default/images/amaudit   skin/adminhtml/default/default/images/amaudit
+skin/adminhtml/default/default/images/ambase    skin/adminhtml/default/default/images/ambase
+skin/adminhtml/default/default/images/amgeoip   skin/adminhtml/default/default/images/amgeoip
+skin/adminhtml/default/default/js/amasty    skin/adminhtml/default/default/js/amasty

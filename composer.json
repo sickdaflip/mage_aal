@@ -1,0 +1,9 @@
+{
+  "name": "sickdaflip/mage_aal",
+  "type": "magento-module",
+  "license": "MIT",
+  "description": "Magento 1.9. AAL",
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  }
+}
