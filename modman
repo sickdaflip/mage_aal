@@ -5,7 +5,7 @@ app/design/adminhtml/default/default/template/amaudit   app/design/adminhtml/def
 app/design/adminhtml/default/default/template/amgeoip   app/design/adminhtml/default/default/template/amgeoip
 app/etc/modules/*.xml   app/etc/modules/
 app/locale/en_US/*.csv  app/locale/en_US/
-app/locale/en_US/template/email/*.csv   app/locale/en_US/template/email/
+app/locale/en_US/template/email/*.html   app/locale/en_US/template/email/
 js/amasty   js/amasty
 lib/Amasty  lib/Amasty
 skin/adminhtml/default/default/amasty   skin/adminhtml/default/default/amasty
