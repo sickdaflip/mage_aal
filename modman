@@ -1,4 +1,4 @@
-app/code/local/Amasty   app/code/local/Amasty
+app/code/local/Amasty/*   app/code/local/Amasty/
 app/design/adminhtml/default/default/layout/amasty  app/design/adminhtml/default/default/layout/amasty
 app/design/adminhtml/default/default/template/amasty    app/design/adminhtml/default/default/template/amasty
 app/design/adminhtml/default/default/template/amaudit   app/design/adminhtml/default/default/template/amaudit
