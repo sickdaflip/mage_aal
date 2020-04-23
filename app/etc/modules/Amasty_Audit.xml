@@ -10,7 +10,7 @@
 <config>
     <modules>
         <Amasty_Audit>
-            <active>false</active>
+            <active>true</active>
             <codePool>local</codePool>
             <edition>community</edition>
             <depends>
